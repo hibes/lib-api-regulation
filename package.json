@@ -1,0 +1,18 @@
+{
+  "name": "lib-api-regulation",
+  "version": "0.0.1",
+  "description": "Assists in managing API calls to metered API services",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hibes/lib-api-regulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hibes/lib-api-regulation/issues"
+  },
+  "homepage": "https://github.com/hibes/lib-api-regulation#readme"
+}
