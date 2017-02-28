@@ -1,5 +1,5 @@
 {
-  "name": "lib-api-regulation",
+  "name": "lib-metered-api-regulation",
   "version": "0.0.1",
   "description": "Assists in managing API calls to metered API services",
   "scripts": {
@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hibes/lib-api-regulation.git"
+    "url": "git+https://github.com/hibes/lib-metered-api-regulation.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hibes/lib-api-regulation/issues"
+    "url": "https://github.com/hibes/lib-metered-api-regulation/issues"
   },
-  "homepage": "https://github.com/hibes/lib-api-regulation#readme"
+  "homepage": "https://github.com/hibes/lib-metered-api-regulation#readme"
 }
